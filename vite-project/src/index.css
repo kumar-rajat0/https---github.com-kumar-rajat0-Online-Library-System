@@ -259,13 +259,13 @@ form textarea:focus {
 }
 
 .submit-btn {
-  padding: 14px 22px;
+  padding: 14px 23px;
   background: #1e293b;
   color: white;
   border-radius: 10px;
   border: none;
   font-size: 16px;
-  margin-top: 20px;
+  margin-top: 21px;
   cursor: pointer;
   transition: 0.3s;
 }
